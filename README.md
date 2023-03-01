@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN STACK and DSA**
 
-- 💬 Ask me about **JAVA ,CPP,HTML,CSS**
+- 💬 Ask me about **JAVA ,CPP,HTML,CSS,JS**
 
 - 📫 How to reach me **akshat.kumar2597@gmail.com**
 
