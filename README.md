@@ -1,24 +1,121 @@
 <h1 align="center">Hello , I'm Akshat Kumar</h1>
 
-![Banner](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&section=header" width="100%"/>
+<a href="https://github.com/Akshat-Kumar-work">
+  <h1  align="center" style="color:#f75c7e;">
+   Akshat Kumar
+  </h1>
+</a>
 
-<h2 align="center">Engineer by Degree and Passion</h2>
+<p align="center">
+  <a href="https://github.com/Akshat-Kumar-work">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>   
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<br/>
 
+<details open> 
+  <summary><h2>🛠️ My Favorite Tools</h2></summary>
 
-- 🌱 I’m currently learning **MERN STACK and DSA**
+  <h3>👨‍💻 Programming and Markup Languages</h3>
 
-- 💬 Ask me about **JAVA ,CPP,HTML,CSS,JS**
+  <p>
 
-- 📫 How to reach me **akshat.kumar2597@gmail.com**
+      <a href="https://github.com/search?q=user%3ARoyalBosS-Ayush+language%3Acpp"><img alt="C++" src="https://img.shields.io/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ARoyalBosS-Ayush+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ARoyalBosS-Ayush+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ARoyalBosS-Ayush+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ARoyalBosS-Ayush+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+      <a href="https://github.com/search?q=user%3ARoyalBosS-Ayush+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+    
+      <a href="https://github.com/search?q=user%3ARoyalBosS-Ayush+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/akshat-kumar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshat-kumar1" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@akshat_kumar2597(https://www.hackerrank.com/akshat_kumar2597)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@akshat_kumar2597" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/akshat_kumar01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akshat_kumar01" height="30" width="40" /></a>
-</p>
+      <a href="https://github.com/search?q=user%3ARoyalBosS-Ayush+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ARoyalBosS-Ayush+language%3Asvg"><img alt="XML" src="https://img.shields.io/badge/SVG-FFB13B.svg?logo=svg&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ARoyalBosS-Ayush+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+  </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+  <h3>🧰 Frameworks and Libraries</h3>
+
+  <p>
+   
+      <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000.svg?logo=express&logoColor=white"></a>
+    
+      <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?logo=github%20actions&logoColor=white"></a>
+
+      <a href="#"><img alt="ReactJs" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=white"></a>
+
+      <a href="#"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-06B6D4.svg?logo=tailwindcss&logoColor=white"></a>
+
+      <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
+  </p>
+
+  <h3>🗄️ Databases and Cloud Hosting</h3>
+
+  <p>
+     
+      <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-222222.svg?logo=github&logoColor=white"></a>
+      <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
+      <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
+      <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+      <a href="#"><img alt="Render" src="https://img.shields.io/badge/Render-00979D.svg?logo=render&logoColor=white"></a>
+      <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
+    
+      <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
+  </p>
+
+  <h3>💻 Software and Tools</h3>
+
+  <p>
+      
+      <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
+      <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a>
+  
+      <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
+     
+      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+      <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
+      <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
+     
+      <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+      <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+      <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+  </p>
+</details>
+
+<details open> 
+  <summary><h2>📊 Github Stats and Activity</h2></summary>
+
+  <h3>🔥 Streak Stats</h3>
+
+  <p>
+    <a href="https://github.com/Akshat-Kumar-work">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Akshat Kumar streak" src="https://streak-stats.demolab.com/?user=Akshat-Kumar-work&theme=dracula&hide_border=true"/>
+    </a>
+  </p>
+
+  <h3>💻 GitHub Profile Stats</h3>
+
+<img alt="Ayush Munot's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=RoyalBosS-Ayush&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+<img alt="Ayush Munot's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=RoyalBosS-Ayush&langs_count=8&layout=compact&theme=dracula&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
+
+<br/>
+
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+<img alt="Ayush Munot's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=RoyalBosS-Ayush&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+
+<img alt="Ayush Munot's Trophies" src="https://github-profile-trophy.vercel.app/?username=RoyalBosS-Ayush&theme=dracula&row=1&margin-w=5&no-frame=true" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RoyalBosS-Ayush/RoyalBosS-Ayush/blob/output/github-contribution-grid-snake-dark.svg?raw=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/RoyalBosS-Ayush/RoyalBosS-Ayush/blob/output/github-contribution-grid-snake.svg?raw=true" />
+  <img alt="github-snake" src="github-snake.svg" width="100%" />
+</picture>
+</details>
+
+<details open> 
+  <summary><h2>🏷️ Holopin Badges</h2></summary>
+
+  <p><a href="https://holopin.io/@royalboss"><img src="https://holopin.me/royalboss" alt="@royalboss&#39;s Holopin board"></a></p>
+</details>
