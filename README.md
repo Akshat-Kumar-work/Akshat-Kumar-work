@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm Akshat</h1>
 <h3 align="center">Engineer By Degree & Passion</h3>
 
-- I’m currently working on [Voice Chat , WEB RTC's](https://github.com/Akshat-Kumar-work/Voice-chat)
+- I’m currently working on [BLOG SITE](https://github.com/Akshat-Kumar-work/Blog-Website)
 
-- I’m currently learning **NEXT JS 14**
+- I’m currently learning **DEVOPS**
 
 - I’m looking forward to work as **Full Stack Web DEV**
 
 - MY PORTFOLIO [https://my-portfolio-five-steel-13.vercel.app/](https://my-portfolio-five-steel-13.vercel.app/)
 
-- Chat with me About **MERN , WEB RTC's , NEXT JS**
+- Chat with me About **MERN, WEB RTC's, DB, SERVERLESS, NEXT JS**
 
 - How to reach me **akshat.kumar.contact@gmail.com**
 
