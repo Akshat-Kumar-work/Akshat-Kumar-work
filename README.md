@@ -5,11 +5,11 @@
 
 - I’m currently learning **DEVOPS**
 
-- I’m looking forward to work as **Full Stack Web DEV**
+- I’m looking forward to work as **Full Stack DEV**
 
 - MY PORTFOLIO [https://my-portfolio-five-steel-13.vercel.app/](https://my-portfolio-five-steel-13.vercel.app/)
 
-- Chat with me About **MERN, WEB RTC's, DB, SERVERLESS, NEXT JS**
+- Chat with me About **MERN, WEB RTC's, DB, SERVERLESS, NEXT JS, DOCKER**
 
 - How to reach me **akshat.kumar.contact@gmail.com**
 
